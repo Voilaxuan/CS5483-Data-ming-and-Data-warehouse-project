@@ -7,8 +7,10 @@
 ## Content
 This project can be divided 4 part.
 - Part1: data analysis
+  
   The code is in code/Data analysis
 - Part2: data preprocessing
+  
   The code is in code/preprocessing_kmeans
 - Part3: classification
   We use KNN, SVM, RandomForest and CNN. Cross-validation, hyperparameters, and other methods are used to select suitable parameters for models. Various evaluation methods also are used to evaluate the performance of model.
