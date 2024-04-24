@@ -13,14 +13,14 @@ This project can be divided 4 part.
   
   The code is in code/preprocessing_kmeans
 - Part3: classification
-- 
-  We use KNN, SVM, RandomForest and CNN. Cross-validation, hyperparameters, and other methods are used to select suitable parameters for models. Various evaluation methods also are used to evaluate the performance of model.
+ 
+  We use KNN, SVM, RandomForest and CNN. cross-validation, hyperparameters, and other methods are used to select suitable parameters for models. Various evaluation methods also are used to evaluate the performance of model.
 - Part4: clustering
   
-  We use kmeans, DBSCAN and OPTICS to cluster. However, the performance is not very well.
+  We use kmeans, DBSCAN and OPTICS to cluster.
 
 
 
 
-## other part includes PPT and relavent paper. 
+## other part includes PPT, report and relavent paper. 
   
