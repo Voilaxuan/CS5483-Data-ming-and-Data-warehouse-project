@@ -22,5 +22,5 @@ This project can be divided 4 part.
 
 
 
-## other part is include PPT and relavent paper. 
+## other part includes PPT and relavent paper. 
   
